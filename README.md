@@ -1,2 +1,3 @@
-# nova-booking-system-9szj
-Automated issue comment bot repository
+# Nova Booking System 9Szj
+
+Automated issue comment bot repository.
